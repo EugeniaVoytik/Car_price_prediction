@@ -24,7 +24,8 @@ Problem: Historically, the company has not collected data from the beginning. Th
 ## Work on this project was carried out in several steps:
 
 1. **Data enrichment** (parsing from `auto.ru`):
-    - collection of additional relevant data for the training dataset containing **130201** observations;
+    - collection of additional relevant data for the training dataset containing **130201** observations;  
+    > [all data](https://www.kaggle.com/eugeniavoytik/sf-dst-car-price-prediction-eda-ml/data?scriptVersionId=76635935) necessary for this notebook can be found on Kaggle.
 2. **EDA**:
     - transforming the training and test datasets into a unified form and merging them;
     - cleaning and unification of the data;
